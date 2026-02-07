@@ -5,8 +5,6 @@ Fase 07 | Temas 69–72 — DOM: operações, eventos e fetch
 
 O objetivo do projeto é consolidar conceitos fundamentais de **manipulação do DOM**, **eventos**, **estado global**, **persistência com localStorage** e **consumo de API**, utilizando apenas **HTML, CSS e JavaScript puro (Vanilla JS)**.
 
----
-
 ## Objetivo do Desafio
 
 Completar a aplicação de e-commerce simples contendo:
@@ -17,8 +15,6 @@ Completar a aplicação de e-commerce simples contendo:
 - Cálculo automático do total  
 - Persistência dos dados no navegador  
 - Interface moderna e responsiva  
-
----
 
 ## Funcionalidades
 
@@ -45,8 +41,6 @@ Completar a aplicação de e-commerce simples contendo:
 - Layout adaptado para desktop, tablet e mobile  
 - Carrinho fixo no desktop e integrado ao fluxo no mobile  
 
----
-
 ## Conceitos Trabalhados
 
 - Manipulação do DOM com JavaScript  
@@ -58,8 +52,6 @@ Completar a aplicação de e-commerce simples contendo:
 - LocalStorage  
 - Separação de responsabilidades (UI, Store, Utils)  
 - CSS moderno com variáveis (Design System)  
-
----
 
 ## Estrutura do Projeto
 
@@ -73,8 +65,6 @@ Completar a aplicação de e-commerce simples contendo:
 ├── cartStore.js      # Estado global do carrinho  
 └── utils.js          # Funções utilitárias (modal, toast, moeda)  
 
----
-
 ## Como Executar o Projeto
 
 1. Clone ou baixe o repositório  
@@ -83,28 +73,21 @@ Completar a aplicação de e-commerce simples contendo:
 
 Para evitar problemas com ES Modules, recomenda-se usar um servidor local simples (ex: Live Server no VS Code).
 
----
-
 ## Modo Desenvolvimento
 
 O projeto possui um **DEV_MODE** ativado no arquivo `cartStore.js`, que insere produtos de exemplo automaticamente no carrinho para facilitar testes durante o desenvolvimento.
-
----
 
 ## Resultado Esperado
 
 Ao final do desafio, o projeto demonstra domínio prático dos conceitos abordados na mentoria, entregando uma aplicação funcional, organizada e com boa experiência de uso.
 
----
-
 ## Observações Finais
 
 Este projeto tem fins **educacionais**, focado no aprendizado e prática de JavaScript moderno, sem uso de frameworks ou bibliotecas externas (exceto ícones e fontes).
-
----
 
 ## Trilha 02 — HTML, CSS e JavaScript
 
 Mentores: **Nicholas Macedo** e **Tatiana Hiromi**<br />
 Curso: **Desenvolvimento Web — DEVStart / LAB365**<br />
 Data: **04/02/2026**
+
