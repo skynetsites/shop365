@@ -1,6 +1,6 @@
 # Shop365 — Lista de Produtos e Carrinho
 
-Projeto desenvolvido como **desafio prático** da **29ª Mentoria ao Vivo (04/02/2026)**, ministrada por **Nicholas Macedo**, dentro da **Trilha 02 — HTML, CSS e JavaScript**, que faz parte do **Curso de Desenvolvimento Web da DEVStart em parceria com a LAB365**.  
+Projeto desenvolvido como **prática** na **29ª Mentoria ao Vivo (04/02/2026)**, ministrada por **Nicholas Macedo**, dentro da **Trilha 02 — HTML, CSS e JavaScript**, que faz parte do **Curso de Desenvolvimento Web da DEVStart em parceria com a LAB365**.  
 Fase 07 | Temas 69–72 — DOM: operações, eventos e fetch
 
 O objetivo do projeto é consolidar conceitos fundamentais de **manipulação do DOM**, **eventos**, **estado global**, **persistência com localStorage** e **consumo de API**, utilizando apenas **HTML, CSS e JavaScript puro (Vanilla JS)**.
@@ -90,4 +90,5 @@ Este projeto tem fins **educacionais**, focado no aprendizado e prática de Java
 Mentores: **Nicholas Macedo** e **Tatiana Hiromi**<br />
 Curso: **Desenvolvimento Web — DEVStart / LAB365**<br />
 Data: **04/02/2026**
+
 
