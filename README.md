@@ -105,6 +105,6 @@ Este projeto tem fins **educacionais**, focado no aprendizado e prática de Java
 
 ## Trilha 02 — HTML, CSS e JavaScript
 
-Mentores: **Nicholas Macedo** e **Tatiana Hiromi**
-Curso: **Desenvolvimento Web — DEVStart / LAB365**  
+Mentores: **Nicholas Macedo** e **Tatiana Hiromi**<br />
+Curso: **Desenvolvimento Web — DEVStart / LAB365**<br />
 Data: **04/02/2026**
